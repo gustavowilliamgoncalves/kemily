@@ -154,3 +154,8 @@ body {
     font-size: 120px;
     line-height: 120px;
 }
+
+mark {
+    background-color: purple;
+    color: white;
+}
