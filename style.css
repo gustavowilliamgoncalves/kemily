@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #fdbf00;
+    background-color: purple;
 }
 
 .card {
@@ -21,6 +21,7 @@ body {
     -webkit-perspective: 1200px;
     perspective: 1200px;
     transition: 1s;
+    transform: translateX(-50%);
 }
 
 .card:hover {
